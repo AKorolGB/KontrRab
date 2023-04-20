@@ -1,0 +1,15 @@
+C:\Users\AK 94\Desktop\gb1\Програмирование\Kontr\KontrRab\KontrRab\obj\Debug\net6.0\KontrRab.csproj.AssemblyReference.cache
+C:\Users\AK 94\Desktop\gb1\Програмирование\Kontr\KontrRab\KontrRab\obj\Debug\net6.0\KontrRab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AK 94\Desktop\gb1\Програмирование\Kontr\KontrRab\KontrRab\obj\Debug\net6.0\KontrRab.AssemblyInfoInputs.cache
+C:\Users\AK 94\Desktop\gb1\Програмирование\Kontr\KontrRab\KontrRab\obj\Debug\net6.0\KontrRab.AssemblyInfo.cs
+C:\Users\AK 94\Desktop\gb1\Програмирование\Kontr\KontrRab\KontrRab\obj\Debug\net6.0\KontrRab.csproj.CoreCompileInputs.cache
+C:\Users\AK 94\Desktop\gb1\Програмирование\Kontr\KontrRab\KontrRab\bin\Debug\net6.0\KontrRab.exe
+C:\Users\AK 94\Desktop\gb1\Програмирование\Kontr\KontrRab\KontrRab\bin\Debug\net6.0\KontrRab.deps.json
+C:\Users\AK 94\Desktop\gb1\Програмирование\Kontr\KontrRab\KontrRab\bin\Debug\net6.0\KontrRab.runtimeconfig.json
+C:\Users\AK 94\Desktop\gb1\Програмирование\Kontr\KontrRab\KontrRab\bin\Debug\net6.0\KontrRab.dll
+C:\Users\AK 94\Desktop\gb1\Програмирование\Kontr\KontrRab\KontrRab\bin\Debug\net6.0\KontrRab.pdb
+C:\Users\AK 94\Desktop\gb1\Програмирование\Kontr\KontrRab\KontrRab\obj\Debug\net6.0\KontrRab.dll
+C:\Users\AK 94\Desktop\gb1\Програмирование\Kontr\KontrRab\KontrRab\obj\Debug\net6.0\refint\KontrRab.dll
+C:\Users\AK 94\Desktop\gb1\Програмирование\Kontr\KontrRab\KontrRab\obj\Debug\net6.0\KontrRab.pdb
+C:\Users\AK 94\Desktop\gb1\Програмирование\Kontr\KontrRab\KontrRab\obj\Debug\net6.0\KontrRab.genruntimeconfig.cache
+C:\Users\AK 94\Desktop\gb1\Програмирование\Kontr\KontrRab\KontrRab\obj\Debug\net6.0\ref\KontrRab.dll
